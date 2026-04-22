@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Suite name = "OrangeHRMSuite">
+<test name = "orangeHRMTest">
+<class name = "com.orangrhrm.test.DummyTest ">
+</class>
+</test>
+</Suite>
